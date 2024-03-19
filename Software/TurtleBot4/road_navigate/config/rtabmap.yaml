@@ -20,8 +20,12 @@
       i_low_bandwidth_quality: 50
       i_keep_preview_aspect_ratio: true
       i_publish_topic: true
-      i_resolution: 1080P
+      i_resolution: 400P
       i_width: 1280
+    left:
+      i_resolution: 400P
+    right:
+      i_resolution: 400P
     stereo:
       i_subpixel: true
     use_sim_time: false
