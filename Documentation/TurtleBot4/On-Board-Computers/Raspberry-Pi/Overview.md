@@ -29,6 +29,6 @@ Specifications were gathered from [Raspberry Pi Webpage](https://www.raspberrypi
 | Operating Temperature                                 | 0 – 50 degrees C ambient                                   |
 
 
-## Raspberry Pi 4B in Turtbot 4
-<img src="../../../Assets/Images/TurtleBot4/On-Board-Computers/RPi.png" width="300">
+## Raspberry Pi 4B in Turtlebot 4
+<img src="../Assets/Images/Turtlebot4/Hardware/On-Board-Computers/RPi.png" width="300">
 

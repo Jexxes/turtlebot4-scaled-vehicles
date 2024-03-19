@@ -6,7 +6,7 @@
 * Allen wrench (swedish: insexnyckel)
 * A small plastic tool for getting the card out of the Raspberry Pi
 
-## Step 2: Downloading the Raspberry Pi OS Image
+## Step 2: Downloading the Turtlebot Image
 - Download the image from the official website [here](http://download.ros.org/downloads/turtlebot4/)
 
 ## Step 3: Remove the SD Card from the Turtlebot 4

@@ -109,6 +109,7 @@ def generate_launch_description():
                                 "queue_size": 10,
                                 "gen_scan": False,
                                 "gen_depth": False,
+                                #"args": "--delete_db_on_start", #kanske fungerar
                             }],
                     remappings=[('depth/image', 'oakd/stereo/image_raw'),('rgb/image', 'oakd/rgb/image_rect'), ('rgb/camera_info', 'oakd/rgb/camera_info'), ('imu', 'dontUseIt')],
                 ),
